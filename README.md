@@ -15,7 +15,7 @@ Run command to link storage with public folder
 php artisan storage:link
 ```  
 # Billing Project Installation & Setup  
-Follow these steps to properly this panel
+Follow these steps to properly install this panel
 ### Setup Reminder Queue Worker  
 ```
 sudo nano /etc/systemd/system/reminder-queue.service
